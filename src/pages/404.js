@@ -40,8 +40,8 @@ const NotFoundPage = () => (
         >
           404
         </Heading>
-        <Heading color="secondary" fontSize={['4rem', '5rem', '6rem']} as="h2">
-          There isn&apos;t anything here
+        <Heading color="secondary" fontSize={['3rem', '4rem', '3rem']} as="h2">
+          Ops! Parece que te saliste de Orbita👨‍🚀
         </Heading>
       </Box>
     </Section.Container>

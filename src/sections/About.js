@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Box, Image, Flex } from 'rebass';
 import { StaticQuery, graphql } from 'gatsby';
